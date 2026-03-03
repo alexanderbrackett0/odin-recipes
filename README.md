@@ -1,0 +1,1 @@
+This project is part of The Odin Project Foundations course. It’s a simple recipe website built to practice basic HTML structure, working with links, images, and multiple pages.
