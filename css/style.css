@@ -12,7 +12,7 @@ body {
 
 .ramen-page {
    background-image: url(../images/dragon.webp) ;
-   background-size: 800px auto;
+   background-size: 1000px auto;
    background-position: center;
    background-repeat: no-repeat;
 }
@@ -29,7 +29,7 @@ body {
     color: white;
 }
 
-.toppins ul {
+.toppings ul {
     color: white;
 }
 
