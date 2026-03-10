@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    text-align: center;
 }
 
 .ramen-page {
@@ -13,16 +14,14 @@ body {
 .ramen-page {
    background-image: url(../images/dragon.webp) ;
    background-size: 1000px auto;
-   background-position: center;
+   background-position: right;
    background-repeat: no-repeat;
-}
-
-.ramen-page p {
-   max-width: 600px;
 }
 
 .description p {
     color: white;
+    display: inline-block;
+    max-width: 600px;
 }
 
 .ingredients ul {
