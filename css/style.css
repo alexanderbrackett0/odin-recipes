@@ -11,11 +11,22 @@ body {
     padding: 20px;
 }
 
-.ramen-page {
-   background-image: url(../images/dragon.webp) ;
-   background-size: 1000px auto;
-   background-position: right;
-   background-repeat: no-repeat;
+  .ramen-page {
+    background: #000 url("../images/subtle-texture.png");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+ol {
+    text-align: left;   /* keeps bullets aligned */
+    margin: 0 auto;     /* centers the block */
+    width: fit-content; /* optional */
+}
+
+ul {
+    text-align: left;   /* keeps bullets aligned */
+    margin: 0 auto;     /* centers the block */
+    width: fit-content; /* optional */
 }
 
 .description p {
