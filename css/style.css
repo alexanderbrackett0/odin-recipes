@@ -7,6 +7,18 @@ body {
 .ramen-page {
    background-color: black;
    color: white;
+    padding: 20px;
+}
+
+.ramen-page {
+   background-image: url(../images/dragon.webp) ;
+   background-size: 800px auto;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+.ramen-page p {
+   max-width: 600px;
 }
 
 .home-link {
