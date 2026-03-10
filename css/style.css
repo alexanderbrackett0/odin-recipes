@@ -28,6 +28,15 @@ body {
 .ingredients ul {
     color: white;
 }
+
+.toppins ul {
+    color: white;
+}
+
+.directions ol {
+    color: white;
+}
+
 .home-link {
     display: block;
     width: fit-content;
