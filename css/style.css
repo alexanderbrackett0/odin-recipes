@@ -1,20 +1,29 @@
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    text-align: center;
-}
-
-.ramen-page {
-   background-color: black;
-   color: gold;
-    padding: 20px;
-}
-
-  .ramen-page {
     background: #000 url("../images/subtle-texture.png");
     background-size: cover;
     background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.ramen-img {
+    display: block;
+    margin: 0 auto;
+    width: 400px; /* adjust to taste */
+    border-radius: 10px;
+}
+
+.ramen-page {
+    background: #000 url("../images/subtle-texture.png");
+    background-size: cover;
+    background-repeat: repeat;
+    color: gold;
+    padding: 20px;
+}
+
+.ingredients {
+    color:  gold;
 }
 
 ol {
@@ -49,13 +58,16 @@ ul {
 
 .glow-box {
     border: 2px solid rgba(255, 0, 0, 0.6);
-    border-radius: 12px;
+    border-radius: 2px;
     padding: 20px;
     box-shadow:
-        0 0 10px rgba(255, 0, 0, 0.6),
-        0 0 20px rgba(255, 0, 0, 0.4),
-        0 0 40px rgba(255, 0, 0, 0.2);
+        0 0 30px rgba(255, 0, 0, 0.6),
+        0 0 40px rgba(255, 0, 0, 0.4),
+        0 0 50px rgba(255, 0, 0, 0.2);
     background: rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    width: 300px;
+    margin: 0 auto;
 }
 
 .home-link {
