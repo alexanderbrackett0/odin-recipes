@@ -21,6 +21,13 @@ body {
    max-width: 600px;
 }
 
+.description p {
+    color: white;
+}
+
+.ingredients ul {
+    color: white;
+}
 .home-link {
     display: block;
     width: fit-content;
