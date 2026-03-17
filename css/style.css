@@ -53,6 +53,7 @@ ul {
     color: white;
     display: inline-block;
     max-width: 600px;
+    font-size: 1.2rem;
 }
 
 .ingredients {
@@ -62,6 +63,7 @@ ul {
 .ingredients ul {
     color: white;
     margin-bottom: 28px;
+    font-size: 1.2rem;
 }
 
 .toppings {
