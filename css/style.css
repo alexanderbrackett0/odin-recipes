@@ -25,7 +25,8 @@ body {
 .ingredients h3 {
     color:  gold;
     font-style: italic; 
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
+    text-decoration: underline;
 }
 
 ol {
@@ -41,13 +42,16 @@ ul {
 }
 
 .description {
-    margin-bottom: 28px;
+    margin-bottom: 2rem;
 }
 
 .description h2 { 
     color: gold;
     font-style: italic;
-}
+    text-align: center;
+    margin-bottom: 2rem;
+    text-decoration: underline;
+}     
 
 .description p {
     color: white;
@@ -74,6 +78,7 @@ ul {
     color: gold;
     font-style: italic;
     margin-bottom: 2rem;
+    text-decoration: underline;
 }
 
 .toppings ul {
@@ -85,6 +90,7 @@ ul {
     color: gold;  
     font-style: italic;
     margin-bottom: 2rem;
+    text-decoration: underline;
 }
 
 .directions ol {
