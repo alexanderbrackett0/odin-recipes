@@ -8,6 +8,8 @@ body {
     text-align: center;
 }
 
+/*----Spicy Ramen Page Start----*/
+
 .ramen-img {
     display: block;
     margin: 0 auto;
@@ -99,7 +101,6 @@ ul {
     font-size: 1.2rem;
 }
 
-
 .home-link {
     display: block;
     width: fit-content;
@@ -109,4 +110,8 @@ ul {
     color: white;
     text-decoration: none;
     border-radius: 5px;
-}
+
+    /*----Spicy Ramen Page Ends----*/
+
+/*-----Asian Chicken Page Start-----*/
+
