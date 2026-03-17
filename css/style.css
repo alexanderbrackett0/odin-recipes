@@ -81,6 +81,7 @@ ul {
 .directions h3 {
     color: gold;  
     font-style: italic;
+    margin-bottom: 2rem;
 }
 
 .directions ol {
