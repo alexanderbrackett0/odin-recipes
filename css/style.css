@@ -22,8 +22,10 @@ body {
     padding: 20px;
 }
 
-.ingredients {
+.ingredients h3 {
     color:  gold;
+    font-style: italic; 
+    margin-bottom: 2rem;
 }
 
 ol {
@@ -38,42 +40,58 @@ ul {
     width: fit-content; /* optional */
 }
 
+.description {
+    margin-bottom: 28px;
+}
+
+.description h2 { 
+    color: gold;
+    font-style: italic;
+}
+
 .description p {
     color: white;
     display: inline-block;
     max-width: 600px;
 }
 
+.ingredients {
+    margin-bottom: 40px;
+}
+
 .ingredients ul {
     color: white;
+    margin-bottom: 28px;
+}
+
+.toppings {
+    margin-bottom: 40px;
+}
+
+.toppings h3 {
+    color: gold;
+    font-style: italic;
+    margin-bottom: 2rem;
 }
 
 .toppings ul {
     color: white;
 }
 
+.directions h3 {
+    color: gold;  
+    font-style: italic;
+}
+
 .directions ol {
     color: white;
 }
 
-.glow-box {
-    border: 2px solid rgba(255, 0, 0, 0.6);
-    border-radius: 2px;
-    padding: 20px;
-    box-shadow:
-        0 0 30px rgba(255, 0, 0, 0.6),
-        0 0 40px rgba(255, 0, 0, 0.4),
-        0 0 50px rgba(255, 0, 0, 0.2);
-    background: rgba(0, 0, 0, 0.4);
-    max-width: 400px;
-    width: 300px;
-    margin: 0 auto;
-}
 
 .home-link {
     display: block;
     width: fit-content;
-    margin: 20px auto 0 auto;
+    margin: 28px auto 0 auto;
     padding: 10px 20px;
     background-color: #ff6347;
     color: white;
