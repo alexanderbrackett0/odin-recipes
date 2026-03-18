@@ -110,8 +110,20 @@ ul {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+}
 
     /*----Spicy Ramen Page Ends----*/
 
 /*-----Asian Chicken Page Start-----*/
 
+.ingredients-directions {
+    display: box;
+    gap: 40px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.home-button {
+    background-color: red;
+    margin-top: 2rem;
+}
