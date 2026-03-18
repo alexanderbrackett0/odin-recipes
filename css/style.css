@@ -131,4 +131,5 @@ ul {
     display: block;
     color: white; 
     text-decoration: none;
+    border-radius: 5px;
 }
