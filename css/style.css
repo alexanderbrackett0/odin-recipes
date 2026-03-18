@@ -137,6 +137,8 @@ ul {
 
 .directions ol {
     padding-top: 2rem;
+  max-width: 60ch;
+  margin: 0 auto;
 }
 
 .home-button a {
@@ -148,4 +150,18 @@ ul {
     color: white; 
     text-decoration: none;
     border-radius: 5px;
+}
+
+/*----Asian Chicken Page End----*/
+
+/*----Beef Stir Fry Start----*/
+
+.sauce ul {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.directions h3 {
+    padding-bottom: .1rem;
+    margin-bottom: .5rem;
 }
