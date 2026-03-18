@@ -126,4 +126,5 @@ ul {
 .home-button {
     background-color: red;
     margin-top: 2rem;
+    width: fit-content;
 }
